@@ -1,0 +1,29 @@
+{
+  "version": 6,
+  "configurePresets": [
+    {
+      "name": "mingw-debug",
+      "displayName": "MinGW Debug",
+      "generator": "MinGW Makefiles",
+      "binaryDir": "${sourceDir}/build/debug",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "mingw-debug",
+      "configurePreset": "mingw-debug"
+    }
+  ],
+  "testPresets": [
+    {
+      "name": "mingw-debug",
+      "configurePreset": "mingw-debug",
+      "output": {
+        "outputOnFailure": true
+      }
+    }
+  ]
+}
