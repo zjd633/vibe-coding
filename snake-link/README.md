@@ -32,6 +32,12 @@ Snake Link is a Windows-first single-player Snake game written in C11 with rayli
 
 The project uses CMake FetchContent to download raylib and GoogleTest.
 
+From the repository root, enter the project folder first:
+
+```powershell
+cd snake-link
+```
+
 ```powershell
 cmake --preset mingw-debug
 cmake --build --preset mingw-debug
@@ -54,6 +60,7 @@ The tests cover linked-list initialization, circular links, movement, growth, co
 ## Run
 
 ```powershell
+cd snake-link
 .\build\debug\bin\snake_client.exe
 ```
 
