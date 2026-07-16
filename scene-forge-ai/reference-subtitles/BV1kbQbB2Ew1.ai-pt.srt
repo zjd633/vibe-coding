@@ -1,0 +1,3236 @@
+﻿1
+00:00:00,660 --> 00:00:01,220
+Oi, olá!
+
+2
+00:00:01,220 --> 00:00:01,620
+E aí, pessoal?
+
+3
+00:00:01,620 --> 00:00:02,950
+Nos últimos nove dias,
+
+4
+00:00:02,950 --> 00:00:07,010
+Dediquei todo o meu tempo para criar este artefato de mangá de IA.
+
+5
+00:00:07,010 --> 00:00:10,910
+OK, e nisso eu investi toda a minha experiência em 3D,
+
+6
+00:00:10,910 --> 00:00:12,150
+todo o meu conhecimento em 3D.
+
+7
+00:00:12,150 --> 00:00:14,650
+E depois, integrei tudo para criar esta ferramenta incrível para manhwas com IA.
+
+8
+00:00:14,650 --> 00:00:17,299
+Aqui, você pode ver que eu mesmo projetei dois nós.
+
+9
+00:00:17,299 --> 00:00:20,139
+E eu coloquei muito do meu coração e esforço nela.
+
+10
+00:00:20,139 --> 00:00:21,399
+Olha, você pode visualizar em uma janela menor,
+
+11
+00:00:21,399 --> 00:00:23,439
+ou pode visualizar em tela cheia, certo?
+
+12
+00:00:23,439 --> 00:00:25,250
+A visualização em tela cheia é a melhor, não é?
+
+13
+00:00:25,250 --> 00:00:27,250
+E também podemos simplesmente exportar o mundo atual para ele,
+
+14
+00:00:27,250 --> 00:00:27,930
+exportá-lo,
+
+15
+00:00:27,930 --> 00:00:30,590
+ou também dar a ele uma referência de grade de 12 quadros.
+
+16
+00:00:30,590 --> 00:00:32,990
+Dessa forma, a IA consegue entender a consistência do seu cenário.
+
+17
+00:00:32,990 --> 00:00:34,430
+E aqui eu também projetei um nó,
+
+18
+00:00:34,430 --> 00:00:36,140
+que é um nó de diretor 3D.
+
+19
+00:00:36,140 --> 00:00:37,920
+Você pode adicionar mais personagens lá.
+
+20
+00:00:37,920 --> 00:00:38,620
+E também pode
+
+21
+00:00:38,620 --> 00:00:40,780
+E também pode controlar tudo em tela cheia.
+
+22
+00:00:40,780 --> 00:00:43,210
+Porque controlar em tela cheia é a melhor parte, certo?
+
+23
+00:00:43,210 --> 00:00:44,770
+E o mais importante é que...
+
+24
+00:00:44,770 --> 00:00:47,950
+Eu também configurei alguns adereços comuns para vocês aqui dentro.
+
+25
+00:00:47,950 --> 00:00:50,570
+Por exemplo, vou limpar o roteiro aqui.
+
+26
+00:00:50,890 --> 00:00:52,610
+Ok, por exemplo, vou adicionar um sofá.
+
+27
+00:00:52,610 --> 00:00:54,650
+E então, por exemplo, vou aumentar o tamanho do sofá.
+
+28
+00:00:54,650 --> 00:00:57,580
+Porque também configurei a largura e a altura...
+
+29
+00:00:57,580 --> 00:00:58,180
+esse controle deslizante.
+
+30
+00:00:58,180 --> 00:00:58,800
+Este nó.
+
+31
+00:00:58,800 --> 00:00:59,300
+Ok
+
+32
+00:00:59,300 --> 00:01:00,340
+Então, por exemplo, podemos
+
+33
+00:01:00,340 --> 00:01:02,940
+Arraste e solte o nosso Xiao Zhang aqui.
+
+34
+00:01:03,560 --> 00:01:04,400
+Dessa forma,
+
+35
+00:01:04,400 --> 00:01:06,920
+se você fizer uma cena de diálogo entre duas pessoas, certo?
+
+36
+00:01:06,920 --> 00:01:09,840
+Sua IA será capaz de entender o posicionamento dos seus personagens no espaço.
+
+37
+00:01:09,840 --> 00:01:10,780
+em que posição.
+
+38
+00:01:10,780 --> 00:01:12,160
+seus personagens não vão flutuar sem rumo,
+
+39
+00:01:12,160 --> 00:01:13,300
+e você não vai mais gastar com cartas aleatórias.
+
+40
+00:01:13,300 --> 00:01:16,930
+isso vai economizar muito dos seus pontos e do seu tempo.
+
+41
+00:01:16,930 --> 00:01:18,209
+E, além disso,
+
+42
+00:01:18,209 --> 00:01:20,170
+eu também adicionei vários adereços.
+
+43
+00:01:20,170 --> 00:01:22,430
+Aqui, vou fazer uma demonstração rápida para vocês.
+
+44
+00:01:22,430 --> 00:01:25,250
+E esses pequenos objetos permitem que nossa IA
+
+45
+00:01:25,250 --> 00:01:28,130
+entenda a posição dos personagens no local.
+
+46
+00:01:28,130 --> 00:01:29,209
+E no lado direito
+
+47
+00:01:29,209 --> 00:01:31,030
+tem uma câmera
+
+48
+00:01:31,030 --> 00:01:32,770
+com alguns cortes em 360 graus.
+
+49
+00:01:32,770 --> 00:01:34,140
+Essas são algumas das vistas rápidas.
+
+50
+00:01:34,140 --> 00:01:36,060
+Ok, por exemplo, depois de termos essa vista,
+
+51
+00:01:36,060 --> 00:01:36,860
+vamos para essa vista.
+
+52
+00:01:36,860 --> 00:01:40,899
+Então, clique em exportar o ângulo de visão no canto inferior direito, ok?
+
+53
+00:01:40,899 --> 00:01:43,259
+E aqui você pode ver que ele exportou duas fotos.
+
+54
+00:01:43,259 --> 00:01:44,459
+Uma delas é colorida.
+
+55
+00:01:44,459 --> 00:01:46,159
+uma é em preto e branco.
+
+56
+00:01:46,159 --> 00:01:48,579
+E essa em preto e branco foi a que eu projetei com mais atenção,
+
+57
+00:01:48,579 --> 00:01:50,610
+é o mapa de profundidade 3D.
+
+58
+00:01:50,610 --> 00:01:51,770
+Esta versão 1.0
+
+59
+00:01:51,770 --> 00:01:54,510
+ainda não parece ter uma profundidade tão padrão,
+
+60
+00:01:54,510 --> 00:01:56,930
+mas sua IA certamente pode entender seus personagens.
+
+61
+00:01:56,930 --> 00:01:58,590
+suas relações espaciais e seu posicionamento.
+
+62
+00:01:58,590 --> 00:02:00,830
+OK, então aqui eu gostaria de dizer aos meus amigos
+
+63
+00:02:00,830 --> 00:02:02,090
+qual é a minha ideia.
+
+64
+00:02:02,090 --> 00:02:03,250
+É por isso que eu vou
+
+65
+00:02:03,250 --> 00:02:05,340
+gerar personagens de cores diferentes.
+
+66
+00:02:05,340 --> 00:02:06,980
+Porque este passo é muito engenhoso.
+
+67
+00:02:06,980 --> 00:02:07,860
+Por exemplo, você dá isso para a IA,
+
+68
+00:02:07,860 --> 00:02:09,900
+você diz que o vermelho é o protagonista masculino,
+
+69
+00:02:09,900 --> 00:02:10,760
+o verde é o verde.
+
+70
+00:02:10,760 --> 00:02:12,089
+e que a verde é a protagonista feminina.
+
+71
+00:02:12,089 --> 00:02:15,209
+Dessa forma, a IA consegue entender exatamente o que você quer dizer,
+
+72
+00:02:15,209 --> 00:02:17,129
+ou seja, qual personagem você quer que seja qual papel.
+
+73
+00:02:17,129 --> 00:02:18,029
+em que direção eles estão
+
+74
+00:02:18,029 --> 00:02:19,489
+Então, aqui eu vou mostrar para vocês
+
+75
+00:02:19,489 --> 00:02:22,350
+Tipo, como se fosse essa minha imagem, certo?
+
+76
+00:02:22,350 --> 00:02:25,919
+E esta tela, onde ficam todas as suas imagens de personagens,
+
+77
+00:02:25,919 --> 00:02:27,639
+e a imagem panorâmica de 360 graus,
+
+78
+00:02:27,639 --> 00:02:30,020
+todas podem ser geradas diretamente nesta tela.
+
+79
+00:02:30,020 --> 00:02:32,620
+Então, farei uma demonstração detalhada disso mais tarde.
+
+80
+00:02:32,620 --> 00:02:34,180
+Por enquanto, vou apresentar a vocês
+
+81
+00:02:34,180 --> 00:02:35,870
+como funciona todo esse processo.
+
+82
+00:02:35,870 --> 00:02:37,550
+Por exemplo, aqui eu tenho uma
+
+83
+00:02:37,550 --> 00:02:40,300
+imagem de posicionamento de personagens que eu mesma exportei, certo?
+
+84
+00:02:40,300 --> 00:02:42,040
+E aqui é uma imagem do cenário.
+
+85
+00:02:42,040 --> 00:02:43,780
+Os personagens principais, o protagonista e a protagonista.
+
+86
+00:02:43,780 --> 00:02:46,389
+E depois, adicione um NPC, certo?
+
+87
+00:02:46,389 --> 00:02:48,630
+E então, aqui, eu apenas direi diretamente na minha caixa de diálogo.
+
+88
+00:02:48,630 --> 00:02:49,910
+Eu digo quem é quem,
+
+89
+00:02:49,910 --> 00:02:52,590
+Por exemplo, veja, eu menciono, menciono aqui
+
+90
+00:02:52,950 --> 00:02:54,290
+Olha, vou deslizar aqui.
+
+91
+00:02:54,290 --> 00:02:57,550
+Então eu posso escolher o personagem principal masculino e feminino, ou um mapa de posicionamento manual,
+
+92
+00:02:57,550 --> 00:02:59,410
+ou um mapa de cena.
+
+93
+00:02:59,410 --> 00:03:02,440
+Aí eu digo, quem é a personagem principal feminina?
+
+94
+00:03:02,440 --> 00:03:03,100
+Quem é o protagonista masculino?
+
+95
+00:03:03,100 --> 00:03:04,419
+Eles estão na imagem,
+
+96
+00:03:04,419 --> 00:03:06,080
+e eles estão conversando nesta cena.
+
+97
+00:03:06,080 --> 00:03:09,079
+A posição é baseada nesta minha pose.
+
+98
+00:03:09,079 --> 00:03:10,699
+Minha posição é estritamente gerada.
+
+99
+00:03:10,699 --> 00:03:12,599
+Então, eu disse que estava deitado.
+
+100
+00:03:12,599 --> 00:03:14,650
+Este é um NPC, certo?
+
+101
+00:03:14,650 --> 00:03:15,210
+É este.
+
+102
+00:03:15,210 --> 00:03:17,010
+E então, você pode ver que ele pode gerar uma imagem.
+
+103
+00:03:17,010 --> 00:03:21,380
+Então, essa qualidade é top, não é?
+
+104
+00:03:21,380 --> 00:03:21,700
+Galera,
+
+105
+00:03:21,700 --> 00:03:24,610
+E também resolve a consistência da sua cena.
+
+106
+00:03:24,610 --> 00:03:25,990
+E também a consistência dos seus personagens.
+
+107
+00:03:25,990 --> 00:03:28,110
+Aqui, há um nó ainda mais divertido e rápido.
+
+108
+00:03:28,110 --> 00:03:30,770
+É chamado de gerador de storyboard.
+
+109
+00:03:30,770 --> 00:03:32,190
+Você pode conectá-lo diretamente.
+
+110
+00:03:32,190 --> 00:03:34,630
+Por exemplo, você pode conectar diretamente o protagonista masculino e feminino, ou o seu cenário.
+
+111
+00:03:34,630 --> 00:03:36,110
+Conecte tudo diretamente a ele.
+
+112
+00:03:36,110 --> 00:03:37,390
+Você pode simplesmente digitar.
+
+113
+00:03:37,390 --> 00:03:38,630
+Você diz que o protagonista masculino está conversando.
+
+114
+00:03:38,630 --> 00:03:39,570
+A garota chora alto.
+
+115
+00:03:39,570 --> 00:03:40,510
+O menino se escondeu.
+
+116
+00:03:40,510 --> 00:03:42,770
+A menina está procurando, os dois estão correndo loucamente.
+
+117
+00:03:42,770 --> 00:03:44,050
+Tem um NPC atrás deles os perseguindo?
+
+118
+00:03:44,050 --> 00:03:46,410
+Vejam só se não é um jogo de sobrevivência de tirar o fôlego.
+
+119
+00:03:47,350 --> 00:03:49,350
+A qualidade é espetacular, não acham?
+
+120
+00:03:49,350 --> 00:03:53,380
+E o melhor de tudo: vocês não pagarão nada por isso!
+
+121
+00:03:53,380 --> 00:03:54,780
+Eu não quero dinheiro, gente!
+
+122
+00:03:54,780 --> 00:03:56,740
+O software é grátis para vocês.
+
+123
+00:03:56,740 --> 00:03:58,620
+Eu trabalhei duro por nove dias para desenvolver este programa.
+
+124
+00:03:58,620 --> 00:04:00,250
+Durante esses nove dias, eu comi qualquer coisa só pra terminar isso.
+
+125
+00:04:00,250 --> 00:04:01,910
+Passei dias e noites projetando este software.
+
+126
+00:04:01,910 --> 00:04:03,010
+Não quero cobrar nada de vocês, meus amigos.
+
+127
+00:04:03,010 --> 00:04:05,170
+No início, eu até pensei em cobrar alguns trocados,
+
+128
+00:04:05,170 --> 00:04:06,410
+tipo uns nove reais e noventa centavos, sabe?
+
+129
+00:04:06,410 --> 00:04:08,900
+Mas, para ser sincero, achei que seria muito pouco, muito básico.
+
+130
+00:04:08,900 --> 00:04:09,520
+É muito barato.
+
+131
+00:04:09,520 --> 00:04:12,060
+Vou dar-vos o software de graça.
+
+132
+00:04:12,060 --> 00:04:13,760
+E as portas estão abertas.
+
+133
+00:04:13,760 --> 00:04:15,800
+Vocês podem ir direto para o seu próprio porto.
+
+134
+00:04:15,800 --> 00:04:17,180
+Eu não sou como eles, que amarram vocês.
+
+135
+00:04:17,180 --> 00:04:19,160
+Eu não sou como eles, que amarram vocês a todos os fabricantes.
+
+136
+00:04:19,160 --> 00:04:22,040
+Você pode preencher qualquer API que tenha comprado.
+
+137
+00:04:22,040 --> 00:04:23,000
+Qualquer uma serve.
+
+138
+00:04:23,000 --> 00:04:24,310
+Se você não souber como usar isso,
+
+139
+00:04:24,310 --> 00:04:25,110
+Você não quer tudo isso
+
+140
+00:04:25,110 --> 00:04:25,970
+Você não quer se incomodar
+
+141
+00:04:25,970 --> 00:04:27,230
+Você apenas insere minha chave API
+
+142
+00:04:27,230 --> 00:04:28,910
+Com apenas um clique, você já pode começar a usá-lo.
+
+143
+00:04:28,910 --> 00:04:30,070
+Não precisa de nenhum esforço.
+
+144
+00:04:30,070 --> 00:04:31,710
+OK, ótimo.
+
+145
+00:04:31,710 --> 00:04:33,430
+E além disso, tem algo ainda mais divertido.
+
+146
+00:04:33,430 --> 00:04:37,150
+Você também pode gerar diretamente suas imagens de cosplay.
+
+147
+00:04:38,490 --> 00:04:40,310
+Não precisa mais editar fotos, pessoal!
+
+148
+00:04:40,310 --> 00:04:42,589
+Por favor, faça um clone cibernético meu, ok?
+
+149
+00:04:42,589 --> 00:04:43,190
+Uau!
+
+150
+00:04:43,190 --> 00:04:45,310
+Sério, sério, eu... uh... talvez eu esteja um pouco animado hoje.
+
+151
+00:04:45,310 --> 00:04:45,870
+Mas é realmente bom.
+
+152
+00:04:45,870 --> 00:04:46,390
+Para ser sincero,
+
+153
+00:04:46,390 --> 00:04:47,870
+Eu projetei um pequeno software.
+
+154
+00:04:47,870 --> 00:04:50,230
+Realmente me dedicou muito, muito pensamento.
+
+155
+00:04:50,230 --> 00:04:53,950
+Você consegue ver o design da interface de todos os nós, certo?
+
+156
+00:04:53,950 --> 00:04:55,790
+Incluindo algumas dessas instalações engenhosas.
+
+157
+00:04:55,790 --> 00:04:58,060
+Olha, essa janelinha também permite uma pré-visualização em tela cheia,
+
+158
+00:04:58,060 --> 00:04:59,220
+E também dá pra pré-visualizar isso aqui.
+
+159
+00:04:59,220 --> 00:05:00,460
+É realmente muito bom de usar.
+
+160
+00:05:00,460 --> 00:05:02,820
+E você, por exemplo, suas imagens panorâmicas,
+
+161
+00:05:02,820 --> 00:05:04,400
+você pode simplesmente clicar aqui para importar.
+
+162
+00:05:04,400 --> 00:05:08,020
+E veja, mesmo se você tiver algumas imagens na web,
+
+163
+00:05:08,020 --> 00:05:09,480
+Você pode simplesmente copiar o link.
+
+164
+00:05:09,480 --> 00:05:12,610
+Basta clicar em "usar" e ele estará pronto para uso.
+
+165
+00:05:12,850 --> 00:05:15,110
+Então, no mercado atual,
+
+166
+00:05:15,110 --> 00:05:18,930
+Acho que fui muito generoso e atencioso.
+
+167
+00:05:18,930 --> 00:05:20,529
+Porque, para ser honesto, uh,
+
+168
+00:05:20,529 --> 00:05:24,060
+Eu realmente me dediquei a fazer isso.
+
+169
+00:05:24,060 --> 00:05:26,920
+E eu não vou te prender como eles fazem.
+
+170
+00:05:26,920 --> 00:05:27,909
+Vou cercar o nome.
+
+171
+00:05:27,909 --> 00:05:28,689
+Não tem problema.
+
+172
+00:05:28,689 --> 00:05:30,749
+É que vocês, pessoal, podem usar isso diretamente.
+
+173
+00:05:30,749 --> 00:05:32,229
+É só pegar e usar, está tudo bem.
+
+174
+00:05:32,229 --> 00:05:33,389
+Sim, com este pequeno software...
+
+175
+00:05:33,389 --> 00:05:35,240
+Vocês podem realmente ir
+
+176
+00:05:35,240 --> 00:05:37,200
+e concretizar suas ideias mais loucas, né?
+
+177
+00:05:37,200 --> 00:05:39,120
+Ah, veja, incluindo esse tipo de, uh,
+
+178
+00:05:39,120 --> 00:05:41,560
+Vocês veem esses dramas com atores reais que estão fazendo muito sucesso no Douyin atualmente?
+
+179
+00:05:41,560 --> 00:05:42,650
+Dramas de pessoas reais, né?
+
+180
+00:05:42,650 --> 00:05:43,970
+Veja, ele gera tudo com um clique.
+
+181
+00:05:43,970 --> 00:05:47,010
+Todos são gerados estritamente de acordo com as minhas instruções, com as minhas ordens.
+
+182
+00:05:47,010 --> 00:05:48,900
+E você pode editar aqui novamente.
+
+183
+00:05:48,900 --> 00:05:51,279
+Por exemplo, o que você quiser, pode mudar novamente.
+
+184
+00:05:51,279 --> 00:05:52,839
+Ele pode realizar tudo.
+
+185
+00:05:52,839 --> 00:05:54,580
+Para que ele possa controlá-lo de forma muito suave.
+
+186
+00:05:54,580 --> 00:05:59,140
+Veja só, essa qualidade é realmente excelente, não é?
+
+187
+00:05:59,620 --> 00:06:03,339
+E este software que criei vem com todas as configurações padrão.
+
+188
+00:06:03,339 --> 00:06:05,020
+É um modelo de banana.
+
+189
+00:06:09,220 --> 00:06:09,540
+Ok.
+
+190
+00:06:10,580 --> 00:06:13,270
+Então, vou ensinar vocês como configurar isso aqui.
+
+191
+00:06:13,270 --> 00:06:13,870
+Este software.
+
+192
+00:06:13,870 --> 00:06:15,990
+E também um fluxo de trabalho completo, do início ao fim.
+
+193
+00:06:15,990 --> 00:06:17,250
+Como podemos fazer isso?
+
+194
+00:06:17,250 --> 00:06:18,610
+É muito simples, na verdade.
+
+195
+00:06:18,610 --> 00:06:19,870
+Primeiro, depois de baixar o software,
+
+196
+00:06:19,870 --> 00:06:20,550
+É muito pequeno.
+
+197
+00:06:20,550 --> 00:06:21,740
+Tem apenas uns 20 megabytes.
+
+198
+00:06:21,740 --> 00:06:24,460
+E lembre-se que ele não executa o seu modelo local.
+
+199
+00:06:24,460 --> 00:06:26,539
+Tudo o que estamos usando agora, os recursos mais avançados,
+
+200
+00:06:26,539 --> 00:06:27,819
+Tudo o que a IA lenta está fazendo agora,
+
+201
+00:06:27,819 --> 00:06:32,310
+Quando ele gera imagens, ele está usando e chamando alguns dos recursos online.
+
+202
+00:06:32,310 --> 00:06:33,430
+configurar a API
+
+203
+00:06:33,430 --> 00:06:34,570
+está tudo a correr na nuvem
+
+204
+00:06:34,570 --> 00:06:35,510
+Se você é iniciante
+
+205
+00:06:35,510 --> 00:06:36,380
+Então, entenda assim:
+
+206
+00:06:36,380 --> 00:06:39,300
+Atualmente, esta ferramenta de geração de imagens de banana oferece a melhor qualidade.
+
+207
+00:06:39,300 --> 00:06:40,740
+E aqui temos duas portas.
+
+208
+00:06:40,740 --> 00:06:42,970
+É preciso configurar a API, sabe?
+
+209
+00:06:42,970 --> 00:06:46,730
+Só depois disso é que o software consegue gerar as imagens.
+
+210
+00:06:46,730 --> 00:06:48,210
+Aí, eu deixei aqui pra vocês...
+
+211
+00:06:48,210 --> 00:06:50,909
+Se você souber como configurar uma API,
+
+212
+00:06:50,909 --> 00:06:53,009
+Eu deixei essa porta aberta para vocês.
+
+213
+00:06:53,009 --> 00:06:54,269
+O software é gratuito, e a porta também.
+
+214
+00:06:54,269 --> 00:06:55,209
+Eu vou liberar para vocês diretamente.
+
+215
+00:06:55,209 --> 00:06:57,069
+Não vou amarrar vocês com algo limitado como eles fazem,
+
+216
+00:06:57,069 --> 00:06:58,900
+ou prender vocês a um formato fixo.
+
+217
+00:06:58,900 --> 00:07:00,620
+ter que ir a algum lugar para fazer download.
+
+218
+00:07:00,620 --> 00:07:01,300
+Não precisa.
+
+219
+00:07:01,300 --> 00:07:02,690
+Se você gosta de personalizá-lo.
+
+220
+00:07:02,690 --> 00:07:03,830
+você pode configurá-lo sozinho.
+
+221
+00:07:03,830 --> 00:07:05,570
+E há um token aqui em cima.
+
+222
+00:07:05,570 --> 00:07:08,400
+Esta porta é para iniciantes.
+
+223
+00:07:08,400 --> 00:07:10,400
+Se você quer baixar o software
+
+224
+00:07:10,400 --> 00:07:12,640
+E quer começar a usá-lo imediatamente
+
+225
+00:07:12,640 --> 00:07:13,600
+Sem complicações
+
+226
+00:07:13,600 --> 00:07:15,540
+Ou se você nem sabe o que é uma API,
+
+227
+00:07:15,540 --> 00:07:16,580
+entre em contato comigo
+
+228
+00:07:16,580 --> 00:07:17,760
+e eu te ajudo.
+
+229
+00:07:17,760 --> 00:07:19,080
+Aí eu te envio uma chave.
+
+230
+00:07:19,080 --> 00:07:20,720
+Você insere essa chave diretamente
+
+231
+00:07:20,720 --> 00:07:21,780
+e clica em salvar.
+
+232
+00:07:21,780 --> 00:07:23,320
+Pode usá-lo diretamente.
+
+233
+00:07:23,320 --> 00:07:25,120
+Certo, e aqui, há um ponto importante a mencionar.
+
+234
+00:07:25,120 --> 00:07:29,180
+É como configurar a porta da sua API.
+
+235
+00:07:29,180 --> 00:07:29,780
+Então, pessoal,
+
+236
+00:07:29,780 --> 00:07:31,500
+vocês podem perguntar à IA.
+
+237
+00:07:31,500 --> 00:07:34,220
+É só dar uma pesquisada.
+
+238
+00:07:34,220 --> 00:07:34,900
+Apenas não me perguntem.
+
+239
+00:07:34,900 --> 00:07:37,870
+Porque agora existem dezenas de APIs no mercado.
+
+240
+00:07:37,870 --> 00:07:39,370
+Não sei se você comprou de uma pequena oficina.
+
+241
+00:07:39,370 --> 00:07:40,800
+Ou de onde você comprou?
+
+242
+00:07:40,800 --> 00:07:42,560
+A estrutura de cada um é diferente.
+
+243
+00:07:42,560 --> 00:07:44,480
+E alguns modelos nem têm esse nome.
+
+244
+00:07:44,480 --> 00:07:47,840
+Ou há algumas coisas que você pode pesquisar por conta própria, sabe?
+
+245
+00:07:47,840 --> 00:07:49,060
+Se você entrar no grupo para interagir,
+
+246
+00:07:49,060 --> 00:07:51,700
+tente não me mencionar muito nessa parte.
+
+247
+00:07:51,700 --> 00:07:53,360
+Porque, na verdade, há dezenas de configurações de casas.
+
+248
+00:07:53,360 --> 00:07:54,680
+Não posso dar a cada um de vocês
+
+249
+00:07:54,680 --> 00:07:55,380
+o que precisam.
+
+250
+00:07:55,380 --> 00:07:57,660
+Minha porta é uma porta universal.
+
+251
+00:07:57,660 --> 00:07:59,740
+Alguns parceiros podem entrar em um segundo.
+
+252
+00:07:59,740 --> 00:08:01,320
+Outros podem demorar 10 minutos e ainda não conseguir.
+
+253
+00:08:01,320 --> 00:08:02,200
+Mas sobre este assunto,
+
+254
+00:08:02,200 --> 00:08:04,460
+já que você pagou por ele
+
+255
+00:08:04,460 --> 00:08:05,680
+deveria perguntar ao fabricante.
+
+256
+00:08:05,680 --> 00:08:07,240
+Por favor, não me pergunte mais sobre isso.
+
+257
+00:08:07,240 --> 00:08:08,600
+Porque estou realmente muito ocupado no grupo.
+
+258
+00:08:08,600 --> 00:08:09,800
+E tenho muitas coisas para fazer agora.
+
+259
+00:08:09,800 --> 00:08:11,520
+Eu realmente não tenho tempo para te ajudar com isso.
+
+260
+00:08:11,520 --> 00:08:13,360
+Como configurar sua própria API comprada?
+
+261
+00:08:13,360 --> 00:08:14,780
+Como eu poderia configurar isso para você, hein?
+
+262
+00:08:14,780 --> 00:08:16,680
+Este é realmente um ponto chave.
+
+263
+00:08:16,680 --> 00:08:18,820
+Por exemplo, vou configurar a minha própria API aqui.
+
+264
+00:08:18,820 --> 00:08:20,150
+Vou introduzir a chave.
+
+265
+00:08:20,150 --> 00:08:21,330
+Então, clico em Salvar.
+
+266
+00:08:21,330 --> 00:08:23,510
+E agora, essa interface que estou usando é muito barata.
+
+267
+00:08:23,510 --> 00:08:24,590
+Custa apenas um centavo por imagem.
+
+268
+00:08:24,590 --> 00:08:26,240
+Então, se você não quiser se preocupar
+
+269
+00:08:26,240 --> 00:08:27,720
+é só usar e pronto
+
+270
+00:08:27,720 --> 00:08:28,060
+entende?
+
+271
+00:08:28,060 --> 00:08:29,600
+Não há necessidade de se preocupar tanto,
+
+272
+00:08:29,600 --> 00:08:29,960
+sabem?
+
+273
+00:08:29,960 --> 00:08:31,230
+É só usar e pronto.
+
+274
+00:08:31,230 --> 00:08:33,270
+Então, primeiro, vamos criar um novo projeto.
+
+275
+00:08:33,270 --> 00:08:35,400
+Por exemplo, vamos configurá-lo para zero três.
+
+276
+00:08:35,400 --> 00:08:36,960
+Aqui, temos dois modos de jogo.
+
+277
+00:08:36,960 --> 00:08:38,940
+Então, se você não tem nada, nada mesmo,
+
+278
+00:08:38,940 --> 00:08:40,840
+você pode gerar tudo diretamente por aqui.
+
+279
+00:08:40,840 --> 00:08:42,690
+Por exemplo, se você já é um
+
+280
+00:08:42,690 --> 00:08:44,150
+Por exemplo, se você já é experiente,
+
+281
+00:08:44,150 --> 00:08:45,650
+e já tem muito material seu,
+
+282
+00:08:45,650 --> 00:08:48,970
+então é só arrastar e soltar o material diretamente aqui.
+
+283
+00:08:48,970 --> 00:08:51,929
+Sim, você pode arrastar tudo com um clique.
+
+284
+00:08:51,929 --> 00:08:53,000
+Para esta tela.
+
+285
+00:08:53,000 --> 00:08:54,520
+E se você quiser usar isso, você mesmo.
+
+286
+00:08:54,520 --> 00:08:56,559
+eu uso este software para fazer algumas composições de cosplay,
+
+287
+00:08:56,559 --> 00:08:58,960
+ou para fazer retoques em personagens ou algo do tipo.
+
+288
+00:08:58,960 --> 00:09:00,960
+Você também pode arrastar diretamente a imagem do seu personagem para cá.
+
+289
+00:09:00,960 --> 00:09:01,480
+e já está, tá bom?
+
+290
+00:09:01,480 --> 00:09:03,090
+Assim como o meu, certo?
+
+291
+00:09:03,090 --> 00:09:04,390
+Porque essa imagem é um pouco de alta definição.
+
+292
+00:09:04,390 --> 00:09:06,309
+Então, ele vai carregar aos poucos.
+
+293
+00:09:09,000 --> 00:09:09,500
+Certo.
+
+294
+00:09:09,500 --> 00:09:12,320
+E aqui embaixo, se você tiver seu próprio material...
+
+295
+00:09:12,320 --> 00:09:13,440
+Então, é assim que você configura, tá?
+
+296
+00:09:13,440 --> 00:09:14,800
+E aqui, por exemplo, pessoal,
+
+297
+00:09:14,800 --> 00:09:16,160
+se vocês não têm, se não tiverem isso
+
+298
+00:09:16,160 --> 00:09:18,580
+Então vamos clicar em "novo" aqui em cima.
+
+299
+00:09:18,760 --> 00:09:21,280
+Por exemplo
+
+300
+00:09:21,280 --> 00:09:24,980
+Primeiro, você precisa criar uma cena, certo?
+
+301
+00:09:24,980 --> 00:09:28,420
+Normalmente, antes, eles faziam uma imagem de 360 graus, por exemplo.
+
+302
+00:09:28,420 --> 00:09:30,140
+Uma imagem que se abria e se estendia.
+
+303
+00:09:30,140 --> 00:09:33,110
+Eles tinham que ir a cada site para baixar e fazer isso.
+
+304
+00:09:33,110 --> 00:09:33,990
+Era muito complicado.
+
+305
+00:09:33,990 --> 00:09:35,070
+Eu resolvi tudo para vocês.
+
+306
+00:09:35,070 --> 00:09:36,309
+Integrei tudo aqui.
+
+307
+00:09:36,309 --> 00:09:39,010
+Por exemplo, eu gero, eu gero
+
+308
+00:09:39,010 --> 00:09:40,630
+Aqui, eu gero um mapa ambiental, certo?
+
+309
+00:09:40,630 --> 00:09:42,230
+Um panorama de 360 graus, uh.
+
+310
+00:09:42,230 --> 00:09:50,440
+gerar um pátio antigo chinês muito bonito, uhm...
+
+311
+00:09:51,120 --> 00:09:52,920
+e depois o filme muda
+
+312
+00:09:56,800 --> 00:10:00,440
+Eu não sou especialista em séries de quadrinhos, mas para mim não é um problema.
+
+313
+00:10:00,440 --> 00:10:02,240
+Então, as minhas sugestões são bastante rudimentares.
+
+314
+00:10:02,240 --> 00:10:04,880
+Mas acredito que quem faz mangás com certeza é muito profissional, né?
+
+315
+00:10:04,880 --> 00:10:06,100
+Não preciso que eu...
+
+316
+00:10:06,100 --> 00:10:07,059
+para orientar vocês.
+
+317
+00:10:07,059 --> 00:10:09,860
+Certo, e aqui eu vou dar algumas configurações.
+
+318
+00:10:09,860 --> 00:10:12,170
+Este, vou dar as dicas diretamente a vocês.
+
+319
+00:10:12,170 --> 00:10:14,650
+Por exemplo, se você quiser gerar uma imagem de ambiente,
+
+320
+00:10:14,650 --> 00:10:16,050
+depois de escrever o que você quer,
+
+321
+00:10:16,050 --> 00:10:17,650
+você clica em 'Gerar 360'.
+
+322
+00:10:17,650 --> 00:10:21,110
+Ok, então aqui você precisa lembrar de configurar seu fabricante.
+
+323
+00:10:21,110 --> 00:10:22,730
+O primeiro é o seu próprio API.
+
+324
+00:10:22,730 --> 00:10:24,570
+E o segundo, se você for usar o meu,
+
+325
+00:10:24,570 --> 00:10:26,090
+Aí você clica aqui nesse botão aqui atrás, tá bom?
+
+326
+00:10:26,090 --> 00:10:27,490
+Chama-se token, só clicar.
+
+327
+00:10:27,490 --> 00:10:29,910
+E depois é só escolher uma resolução.
+
+328
+00:10:29,910 --> 00:10:32,069
+Por exemplo, aqui, vamos escolher 16:9.
+
+329
+00:10:32,069 --> 00:10:32,828
+Quanto à qualidade de imagem,
+
+330
+00:10:32,828 --> 00:10:34,989
+normalmente, 2K já é suficiente para tudo.
+
+331
+00:10:34,989 --> 00:10:36,269
+A resolução 2K oferece a melhor relação custo-benefício.
+
+332
+00:10:36,269 --> 00:10:39,820
+Depois, é só clicar em gerar.
+
+333
+00:10:40,900 --> 00:10:43,080
+E então, no lado direito, ele vai gerar diretamente.
+
+334
+00:10:43,080 --> 00:10:44,500
+assim você não precisa mais se preocupar, tá?
+
+335
+00:10:44,500 --> 00:10:47,370
+Por exemplo, se antes você precisava fazer uma imagem 360,
+
+336
+00:10:47,370 --> 00:10:48,809
+você tinha que ir para aquele site e se virar
+
+337
+00:10:48,809 --> 00:10:51,770
+Aí você teria que ir para aquele aplicativo e fazer de novo.
+
+338
+00:10:51,770 --> 00:10:53,000
+Depois ir para aquele outro e fazer de novo.
+
+339
+00:10:53,000 --> 00:10:53,880
+Isso é muito demorado.
+
+340
+00:10:53,880 --> 00:10:54,620
+A eficiência é muito baixa.
+
+341
+00:10:54,620 --> 00:10:55,400
+E aqui,
+
+342
+00:10:55,400 --> 00:10:56,760
+E agora, enquanto ele está gerando a imagem,
+
+343
+00:10:56,760 --> 00:10:58,980
+Vamos gerar mais uma imagem de personagem para ele.
+
+344
+00:10:58,980 --> 00:11:01,429
+Vamos dar um clique duplo para gerar uma imagem de IA.
+
+345
+00:11:01,429 --> 00:11:04,490
+E aqui, por exemplo, vamos gerar um...
+
+346
+00:11:04,929 --> 00:11:16,270
+Uma beleza chinesa antiga, vestida de forma extravagante, com um toque cinematográfico.
+
+347
+00:11:17,309 --> 00:11:19,990
+Muito linda, bom.
+
+348
+00:11:19,990 --> 00:11:21,590
+O que eu escrevi é tudo muito simples, viu?
+
+349
+00:11:21,590 --> 00:11:23,030
+Se vocês já tiverem algo escrito,
+
+350
+00:11:23,030 --> 00:11:24,150
+podem detalhar um pouco mais
+
+351
+00:11:24,150 --> 00:11:27,140
+e adicionar um personagem, certo?
+
+352
+00:11:27,140 --> 00:11:29,940
+Então, aqui também é importante lembrar de selecionar
+
+353
+00:11:29,940 --> 00:11:31,040
+a resolução, tá?
+
+354
+00:11:34,740 --> 00:11:37,970
+Por isso, eu deixo vocês mesmos escolherem.
+
+355
+00:11:39,360 --> 00:11:42,520
+Ok, então vamos clicar em gerar.
+
+356
+00:11:44,580 --> 00:11:46,460
+Se ele nos avisar que há um erro aqui,
+
+357
+00:11:46,460 --> 00:11:48,020
+nós nos esquecemos de selecionar.
+
+358
+00:11:48,020 --> 00:11:50,260
+Esquecemos de selecionar o nosso fabricante, né?
+
+359
+00:11:55,500 --> 00:11:58,020
+Bem, aqui você pode ver que já foi gerado, certo?
+
+360
+00:11:58,020 --> 00:12:01,470
+Uma imagem panorâmica de 360 graus, desdobrada.
+
+361
+00:12:01,470 --> 00:12:03,910
+Assim, vocês não precisam se preocupar com isso, pessoal.
+
+362
+00:12:03,910 --> 00:12:05,750
+Concentrem-se na criação.
+
+363
+00:12:05,750 --> 00:12:07,020
+Não se preocupem com ferramentas assim.
+
+364
+00:12:07,020 --> 00:12:08,260
+OK, e com essa imagem
+
+365
+00:12:08,260 --> 00:12:10,260
+você pode simplesmente puxar aqui neste nó, para trás
+
+366
+00:12:10,260 --> 00:12:13,239
+e obter uma imagem panorâmica de 360 graus em VR.
+
+367
+00:12:13,239 --> 00:12:15,039
+Sim, esta é a interface de usuário e tudo mais.
+
+368
+00:12:15,039 --> 00:12:16,490
+Eu mesmo projetei tudo, hein?
+
+369
+00:12:16,490 --> 00:12:17,870
+Realmente, dediquei muito tempo e esforço.
+
+370
+00:12:17,870 --> 00:12:19,610
+Porque, primeiro, você pode arrastar e soltar nesta pequena janela aqui.
+
+371
+00:12:19,610 --> 00:12:21,429
+Arrastar e soltar na janela pequena.
+
+372
+00:12:21,429 --> 00:12:23,220
+Assim, você pode pré-visualizar um pouco.
+
+373
+00:12:23,220 --> 00:12:26,900
+Então, você pode pré-visualizar diretamente em 360 graus, dessa forma.
+
+374
+00:12:26,900 --> 00:12:30,920
+Depois, pode usar a roda do rato, para a frente e para trás, para deslizar.
+
+375
+00:12:30,920 --> 00:12:31,520
+Para arrastar.
+
+376
+00:12:31,520 --> 00:12:32,720
+Por exemplo, se você quer este aqui,
+
+377
+00:12:32,720 --> 00:12:34,160
+por exemplo, se você quer que essas duas pessoas
+
+378
+00:12:34,160 --> 00:12:38,200
+dialoguem nesta cena, uh, uh.
+
+379
+00:12:38,200 --> 00:12:40,150
+Então você clica aqui para exportar a visualização atual.
+
+380
+00:12:40,150 --> 00:12:42,790
+Se você quiser apenas que este cenário mantenha
+
+381
+00:12:42,790 --> 00:12:43,990
+uma consistência...
+
+382
+00:12:43,990 --> 00:12:47,110
+Então, você clica nas 12 grades de referência, certo?
+
+383
+00:12:47,110 --> 00:12:48,179
+Depois, clica em fechar.
+
+384
+00:12:48,179 --> 00:12:50,300
+Aí, no lado direito, você pode arrastar um pouco.
+
+385
+00:12:50,300 --> 00:12:52,400
+Você pode ver as duas imagens que você exportou.
+
+386
+00:12:52,400 --> 00:12:53,820
+Elas estarão neste lugar.
+
+387
+00:12:53,820 --> 00:12:54,080
+Certo.
+
+388
+00:12:54,080 --> 00:12:57,330
+Então, vamos pegar a imagem da nossa personagem, certo?
+
+389
+00:12:57,330 --> 00:12:58,290
+Veja, nós simplesmente
+
+390
+00:12:58,290 --> 00:13:01,450
+com um clique, geramos uma vista em três dimensões, não é?
+
+391
+00:13:01,450 --> 00:13:02,190
+uma imagem de personagem,
+
+392
+00:13:02,190 --> 00:13:03,770
+você não precisa mais escrever nenhum prompt.
+
+393
+00:13:03,770 --> 00:13:04,970
+Já escrevi tudo para você.
+
+394
+00:13:04,970 --> 00:13:06,350
+É só você fazer.
+
+395
+00:13:06,350 --> 00:13:07,550
+É só você criar.
+
+396
+00:13:07,550 --> 00:13:09,050
+É só você ir em frente e criar, ok?
+
+397
+00:13:09,050 --> 00:13:10,090
+Então, para economizar tempo aqui,
+
+398
+00:13:10,090 --> 00:13:11,650
+não vou gerar mais personagens, tá?
+
+399
+00:13:11,650 --> 00:13:14,800
+Só para mostrar como essa função é usada.
+
+400
+00:13:14,800 --> 00:13:16,340
+Com essa cena
+
+401
+00:13:16,340 --> 00:13:18,080
+e com esse personagem em mãos,
+
+402
+00:13:18,080 --> 00:13:21,380
+vamos gerar mais um, basta dar um clique duplo.
+
+403
+00:13:21,380 --> 00:13:25,190
+Vamos ter um palco de direção em 3D, certo?
+
+404
+00:13:25,190 --> 00:13:26,309
+E neste palco de direção,
+
+405
+00:13:26,309 --> 00:13:27,970
+Vou explicar-vos quais são as suas funcionalidades.
+
+406
+00:13:27,970 --> 00:13:30,530
+Primeiro, você pode visualizar em uma pequena janela assim.
+
+407
+00:13:30,530 --> 00:13:33,790
+Ou pode clicar diretamente para exportar a vista atual.
+
+408
+00:13:35,920 --> 00:13:38,300
+Certo, então você pode adicionar mais personagens.
+
+409
+00:13:38,300 --> 00:13:39,730
+Este personagem é aleatório, ok?
+
+410
+00:13:39,730 --> 00:13:41,630
+E a cor de cada um é diferente.
+
+411
+00:13:41,630 --> 00:13:42,690
+Então, se você disser para a IA,
+
+412
+00:13:42,690 --> 00:13:43,970
+Você está dizendo quem é quem e qual cor?
+
+413
+00:13:43,970 --> 00:13:44,410
+Quem é quem?
+
+414
+00:13:44,410 --> 00:13:45,210
+Ele saberá.
+
+415
+00:13:45,210 --> 00:13:47,500
+Então você pode clicar aqui para limpar.
+
+416
+00:13:47,500 --> 00:13:49,300
+Apenas mantenha um personagem, ok?
+
+417
+00:13:49,300 --> 00:13:52,690
+Então aqui, vamos clicar em controle de tela cheia, ok?
+
+418
+00:13:52,690 --> 00:13:53,970
+E aqui neste local,
+
+419
+00:13:53,970 --> 00:13:56,510
+você pode adicionar outro personagem, por exemplo.
+
+420
+00:13:56,510 --> 00:13:58,050
+No canto superior direito, uhm.
+
+421
+00:13:58,050 --> 00:13:59,210
+Você também pode adicionar um personagem.
+
+422
+00:13:59,210 --> 00:14:02,650
+E se, por exemplo, o personagem estiver deitado?
+
+423
+00:14:02,650 --> 00:14:04,210
+Então você clica em 'Deitar'.
+
+424
+00:14:04,210 --> 00:14:05,900
+Ele estava deitado no chão, certo?
+
+425
+00:14:05,900 --> 00:14:09,620
+E há também o inclinado, haha, OK, este inclinado é um pouco abstrato, haha.
+
+426
+00:14:09,620 --> 00:14:10,540
+Para excluir uma tarefa,
+
+427
+00:14:10,540 --> 00:14:12,360
+É só clicar aqui para limpar.
+
+428
+00:14:12,360 --> 00:14:14,490
+Por exemplo, no meu caso,
+
+429
+00:14:14,490 --> 00:14:15,530
+vou fazer uma demonstração para vocês.
+
+430
+00:14:15,530 --> 00:14:16,150
+Eu dou a ele
+
+431
+00:14:16,150 --> 00:14:19,690
+Eu mesmo configurei vários modelos simples, tipo...
+
+432
+00:14:19,690 --> 00:14:22,110
+Por exemplo, adereços de casa...
+
+433
+00:14:22,110 --> 00:14:22,810
+adereços externos
+
+434
+00:14:22,810 --> 00:14:23,510
+adereços de estilo antigo
+
+435
+00:14:23,510 --> 00:14:25,240
+modelos geométricos grandes de edifícios
+
+436
+00:14:25,240 --> 00:14:26,840
+E também algumas decorações e outras coisas, certo?
+
+437
+00:14:26,840 --> 00:14:28,080
+E aqui, por exemplo, nós podemos, digamos,
+
+438
+00:14:28,080 --> 00:14:34,099
+você pode simplesmente configurar, uh, algumas coisas como mesas, por exemplo.
+
+439
+00:14:34,099 --> 00:14:35,410
+bancos e tal.
+
+440
+00:14:35,410 --> 00:14:37,790
+Essa escrivaninha e cadeira devem ser muito compradas.
+
+441
+00:14:37,790 --> 00:14:39,079
+e usadas, né?
+
+442
+00:14:39,079 --> 00:14:40,519
+Hum, não precisamos desta imagem.
+
+443
+00:14:40,519 --> 00:14:42,259
+É só para vos fazer uma demonstração.
+
+444
+00:14:42,259 --> 00:14:44,699
+Basta que saibam para que serve, está bem?
+
+445
+00:14:44,699 --> 00:14:46,660
+Aí é só arrastar.
+
+446
+00:14:46,660 --> 00:14:48,880
+Se você selecionar qualquer objeto,
+
+447
+00:14:48,880 --> 00:14:51,040
+ele terá um eixo X, Y e Z.
+
+448
+00:14:51,040 --> 00:14:51,780
+O que significa?
+
+449
+00:14:51,780 --> 00:14:53,300
+Este verde é o eixo Z.
+
+450
+00:14:53,300 --> 00:14:55,460
+Ele pode ajustar o eixo vertical deste objeto.
+
+451
+00:14:55,460 --> 00:14:57,740
+E tem mais um, um eixo azul.
+
+452
+00:14:57,740 --> 00:15:00,300
+Ele não está aqui nesta tela, né?
+
+453
+00:15:00,300 --> 00:15:02,610
+Mas você deve imaginar que é um eixo de alongamento.
+
+454
+00:15:02,610 --> 00:15:05,450
+Aí você clica no eixo vermelho, neste eixo horizontal.
+
+455
+00:15:06,530 --> 00:15:07,770
+Então, se você acha que arrastar é um incômodo,
+
+456
+00:15:07,770 --> 00:15:11,310
+você pode simplesmente... uhm, selecionar um cubo lá embaixo.
+
+457
+00:15:11,310 --> 00:15:12,250
+Você seleciona um plano.
+
+458
+00:15:12,250 --> 00:15:16,170
+Ele pode ser movido nesta tela, certo?
+
+459
+00:15:16,170 --> 00:15:16,990
+Sim.
+
+460
+00:15:16,990 --> 00:15:18,390
+É bem suave, né?
+
+461
+00:15:18,390 --> 00:15:20,640
+Bem conveniente.
+
+462
+00:15:20,640 --> 00:15:22,060
+Então, por exemplo, quando estamos...
+
+463
+00:15:22,060 --> 00:15:25,119
+Você pode arrastá-lo para esta posição, certo?
+
+464
+00:15:25,119 --> 00:15:26,899
+E se você tiver uma lâmina dupla,
+
+465
+00:15:26,899 --> 00:15:29,559
+você pode adicionar mais coisas.
+
+466
+00:15:29,559 --> 00:15:31,150
+Porque, se você manipular assim,
+
+467
+00:15:31,150 --> 00:15:34,030
+sua manipulação não vai mais flutuar por aí, sabe?
+
+468
+00:15:34,030 --> 00:15:35,670
+Porque há alguns dias eu vi um colega
+
+469
+00:15:35,670 --> 00:15:36,750
+Então, o que é que ele me faz?
+
+470
+00:15:36,750 --> 00:15:37,510
+Por exemplo, ele não tem...
+
+471
+00:15:37,510 --> 00:15:39,110
+Por exemplo, se não houvesse esta mesa,
+
+472
+00:15:40,710 --> 00:15:42,090
+A imagem gerada por ele, uau,
+
+473
+00:15:42,090 --> 00:15:45,070
+Ele, ele, ele pode ter essa pessoa aqui nesta imagem,
+
+474
+00:15:45,070 --> 00:15:47,010
+Ele pode ter essa pessoa aqui na próxima imagem.
+
+475
+00:15:47,010 --> 00:15:47,570
+Entendeu?
+
+476
+00:15:47,570 --> 00:15:50,800
+Ele sempre vai contar com a IA para analisar.
+
+477
+00:15:50,800 --> 00:15:53,480
+Ele adivinha com base nas suas dicas.
+
+478
+00:15:53,480 --> 00:15:54,800
+Aí, se o que ele gerar
+
+479
+00:15:54,800 --> 00:15:55,720
+você não conseguir usar,
+
+480
+00:15:55,720 --> 00:15:57,140
+ele vai te cobrar mesmo assim.
+
+481
+00:15:57,140 --> 00:15:59,070
+Deduz seus pontos, certo?
+
+482
+00:15:59,070 --> 00:16:01,790
+É por isso que eu desenvolvi essa ferramenta de IA para quadrinhos.
+
+483
+00:16:01,790 --> 00:16:02,390
+O que isso significa?
+
+484
+00:16:02,390 --> 00:16:05,330
+Isso pode reduzir muito seus pontos
+
+485
+00:16:05,330 --> 00:16:07,620
+e também economizar muito dinheiro, certo?
+
+486
+00:16:07,620 --> 00:16:09,560
+E esta é apenas a versão 1.0.
+
+487
+00:16:09,560 --> 00:16:10,400
+Tenho muitas outras ideias.
+
+488
+00:16:10,400 --> 00:16:12,080
+Vou incluí-las na versão 2.0.
+
+489
+00:16:12,080 --> 00:16:13,820
+E também serão gratuitas.
+
+490
+00:16:13,820 --> 00:16:17,290
+Ok, então você pode rapidamente organizar alguns adereços, certo?
+
+491
+00:16:17,290 --> 00:16:18,950
+E o que mais você pode fazer?
+
+492
+00:16:18,950 --> 00:16:20,390
+Você pode simplesmente organizar alguns.
+
+493
+00:16:20,390 --> 00:16:21,650
+Por exemplo, você pode colocar uma mesa,
+
+494
+00:16:21,650 --> 00:16:22,230
+cadeiras,
+
+495
+00:16:22,230 --> 00:16:23,970
+e o AI saberá como está o seu espaço.
+
+496
+00:16:23,970 --> 00:16:26,179
+Onde está posicionado o seu personagem?
+
+497
+00:16:26,179 --> 00:16:27,339
+Seria o ideal, tá?
+
+498
+00:16:27,339 --> 00:16:28,659
+E sobre esta tela,
+
+499
+00:16:28,659 --> 00:16:29,779
+Como você gira?
+
+500
+00:16:29,779 --> 00:16:31,730
+É só segurar o botão esquerdo do mouse.
+
+501
+00:16:31,730 --> 00:16:34,550
+Você pode girar 360 graus.
+
+502
+00:16:34,550 --> 00:16:38,130
+E o botão direito do mouse serve para mover o ângulo de visão.
+
+503
+00:16:38,780 --> 00:16:41,520
+Certo, e a rodinha do mouse para frente e para trás
+
+504
+00:16:41,520 --> 00:16:45,700
+é para aumentar ou diminuir a escala da imagem.
+
+505
+00:16:46,510 --> 00:16:49,210
+Então, há um ponto importante que quero mencionar aqui.
+
+506
+00:16:49,210 --> 00:16:50,350
+Por que não tenho
+
+507
+00:16:50,350 --> 00:16:53,160
+configurado as mãos para este personagem?
+
+508
+00:16:53,160 --> 00:16:54,920
+Eu sei que alguns de vocês devem estar pensando:
+
+509
+00:16:54,920 --> 00:16:56,400
+Ah, é só colocar um boneco
+
+510
+00:16:56,400 --> 00:16:57,720
+e adicionar um esqueleto.
+
+511
+00:16:57,720 --> 00:16:59,600
+Não seria mais controlável animá-lo?
+
+512
+00:16:59,600 --> 00:16:59,940
+Certo?
+
+513
+00:16:59,940 --> 00:17:01,040
+Mas vou te dizer uma coisa...
+
+514
+00:17:01,040 --> 00:17:03,460
+Não há a menor necessidade disso.
+
+515
+00:17:03,460 --> 00:17:04,359
+Por que não?
+
+516
+00:17:04,359 --> 00:17:05,680
+Deixa eu te explicar, por exemplo.
+
+517
+00:17:05,680 --> 00:17:07,220
+Por exemplo, se eu usar este ângulo agora,
+
+518
+00:17:07,220 --> 00:17:11,210
+e eu disser para a IA que o protagonista masculino e a protagonista feminina estão apertando as mãos,
+
+519
+00:17:11,210 --> 00:17:13,130
+na verdade, eu só preciso dar uma dica.
+
+520
+00:17:13,130 --> 00:17:14,510
+Ele vai saber o que eles estão fazendo.
+
+521
+00:17:14,510 --> 00:17:15,650
+Mas se eu te der
+
+522
+00:17:15,650 --> 00:17:17,690
+Por exemplo, como o Flanders
+
+523
+00:17:17,690 --> 00:17:19,579
+Se eu te pedisse para animar você mesmo...
+
+524
+00:17:19,579 --> 00:17:21,299
+Você sabe o quão difícil é animar, certo?
+
+525
+00:17:21,299 --> 00:17:23,138
+E isso é um software 3D profissional.
+
+526
+00:17:23,138 --> 00:17:25,179
+Se eu colocar tudo isso em um grupo
+
+527
+00:17:25,179 --> 00:17:26,380
+de poucas funcionalidades,
+
+528
+00:17:26,380 --> 00:17:27,980
+você vai se torturar muito.
+
+529
+00:17:27,980 --> 00:17:29,240
+Então, eu acho que realmente não há necessidade.
+
+530
+00:17:29,240 --> 00:17:31,540
+E, além disso, a parte 3D muito profissional,
+
+531
+00:17:31,540 --> 00:17:33,540
+na verdade, eu a deixei para depois.
+
+532
+00:17:33,540 --> 00:17:34,920
+para usos mais avançados.
+
+533
+00:17:34,920 --> 00:17:36,700
+Porque os mangás digitais estão ficando muito competitivos,
+
+534
+00:17:36,700 --> 00:17:39,240
+e no final, eles vão se tornar dramas de ação ao vivo muito sofisticados.
+
+535
+00:17:39,240 --> 00:17:41,520
+Ele definitivamente exige conhecimento em 3D.
+
+536
+00:17:41,520 --> 00:17:43,119
+Certo, mas como você vai se sair?
+
+537
+00:17:43,119 --> 00:17:45,480
+Você conseguiria superar a animação 3D profissional?
+
+538
+00:17:45,480 --> 00:17:46,180
+Não é?
+
+539
+00:17:46,180 --> 00:17:51,580
+Então, você teria esse controle lá dentro, certo?
+
+540
+00:17:52,629 --> 00:17:54,388
+E você faria o movimento da câmera lá dentro.
+
+541
+00:17:54,388 --> 00:17:55,629
+Será que vai ser tão suave assim?
+
+542
+00:17:55,629 --> 00:17:59,148
+Será que ele vai ter essa fluidez de movimento de câmera, como a Brand?
+
+543
+00:17:59,929 --> 00:18:01,369
+Não, é impossível, meu caro.
+
+544
+00:18:01,369 --> 00:18:02,888
+Por isso pensei nisso.
+
+545
+00:18:02,888 --> 00:18:05,609
+Foi por isso que não desenhei a mão desta pessoa.
+
+546
+00:18:05,609 --> 00:18:08,580
+Apenas a fixamos numa posição.
+
+547
+00:18:08,580 --> 00:18:10,880
+E aí você diz a ele o que as duas pessoas estão fazendo.
+
+548
+00:18:10,880 --> 00:18:11,460
+Elas estão apertando as mãos.
+
+549
+00:18:11,460 --> 00:18:12,119
+Elas estão se abraçando.
+
+550
+00:18:12,119 --> 00:18:14,100
+É só você dizer uma coisa.
+
+551
+00:18:14,100 --> 00:18:15,770
+Não precisa mais se esforçar.
+
+552
+00:18:15,770 --> 00:18:17,830
+E cada boneco tem uma cor diferente.
+
+553
+00:18:17,830 --> 00:18:21,070
+Então, o AIS sabe muito bem quem é quem.
+
+554
+00:18:21,070 --> 00:18:22,290
+Não tem erro.
+
+555
+00:18:22,290 --> 00:18:22,730
+Entende?
+
+556
+00:18:22,730 --> 00:18:23,890
+Ok, e à direita,
+
+557
+00:18:23,890 --> 00:18:26,740
+E no canto superior direito, há algumas perspectivas de cauda longa.
+
+558
+00:18:26,740 --> 00:18:27,859
+Por exemplo, para alguns amigos, uh,
+
+559
+00:18:27,859 --> 00:18:30,420
+Se você quiser ter uma perspectiva diferente rapidamente,
+
+560
+00:18:30,420 --> 00:18:31,740
+é só clicar, e pronto.
+
+561
+00:18:31,740 --> 00:18:33,679
+Por exemplo, se exportarmos a partir desta perspectiva,
+
+562
+00:18:33,679 --> 00:18:34,719
+Exportar uma vista.
+
+563
+00:18:34,719 --> 00:18:36,599
+E depois sair do ecrã inteiro.
+
+564
+00:18:36,910 --> 00:18:37,990
+OK, e continua assim.
+
+565
+00:18:37,990 --> 00:18:39,710
+Quero reforçar mais uma vez aqui.
+
+566
+00:18:39,710 --> 00:18:41,510
+Bem, as imagens coloridas não precisam de ser mencionadas, certo?
+
+567
+00:18:41,510 --> 00:18:43,949
+Aqui terei um mapa de profundidade 3D.
+
+568
+00:18:43,949 --> 00:18:47,349
+Esta imagem é muito importante para a inteligência artificial entender o espaço que você está criando.
+
+569
+00:18:47,349 --> 00:18:49,930
+É uma funcionalidade crucial para a percepção da perspectiva.
+
+570
+00:18:49,930 --> 00:18:51,490
+Talvez nesta versão 1.0
+
+571
+00:18:51,490 --> 00:18:53,050
+Ainda não o desenvolvi muito bem.
+
+572
+00:18:53,050 --> 00:18:55,699
+Porque, uh, é realmente muito corrido.
+
+573
+00:18:55,699 --> 00:18:59,040
+Todo dia, sem descanso, eu fico projetando essas coisas.
+
+574
+00:18:59,040 --> 00:19:00,280
+E na versão 2.0,
+
+575
+00:19:00,280 --> 00:19:01,940
+acredito que posso torná-lo muito bom.
+
+576
+00:19:01,940 --> 00:19:05,440
+É que ele realmente tem uma sensação de perspectiva muito boa.
+
+577
+00:19:05,440 --> 00:19:09,388
+Sua IA pode entender o posicionamento espacial dos seus personagens.
+
+578
+00:19:09,388 --> 00:19:10,989
+Está tudo bem com ele, sem problemas.
+
+579
+00:19:10,989 --> 00:19:11,949
+Depois de fazer tudo isso,
+
+580
+00:19:11,949 --> 00:19:15,010
+Assim, conseguimos rapidamente o nosso cenário.
+
+581
+00:19:15,010 --> 00:19:16,369
+E os nossos personagens, certo?
+
+582
+00:19:16,369 --> 00:19:18,090
+E o resto é apenas uma questão de colocarmos este...
+
+583
+00:19:18,090 --> 00:19:20,109
+vamos definir essa ação novamente.
+
+584
+00:19:20,109 --> 00:19:20,910
+Seria ótimo.
+
+585
+00:19:20,910 --> 00:19:21,790
+Seria muito divertido.
+
+586
+00:19:21,790 --> 00:19:25,680
+E é bem controlável, certo? Ok, para economizar tempo aqui,
+
+587
+00:19:25,680 --> 00:19:28,619
+vou mostrar para vocês alguns trabalhos já prontos, tá bom?
+
+588
+00:19:28,619 --> 00:19:29,840
+Ah, é mais ou menos assim.
+
+589
+00:19:29,840 --> 00:19:32,450
+Por exemplo, você só precisa marcar quem é quem.
+
+590
+00:19:32,450 --> 00:19:33,270
+Você só precisa marcá-los.
+
+591
+00:19:33,270 --> 00:19:33,910
+Este é o cenário.
+
+592
+00:19:33,910 --> 00:19:34,590
+É a leitura.
+
+593
+00:19:34,590 --> 00:19:36,400
+Este é o protagonista e a protagonista.
+
+594
+00:19:36,400 --> 00:19:39,080
+E quem está vestido, quem é?
+
+595
+00:19:39,080 --> 00:19:40,740
+A identidade de cada personagem, quem é quem.
+
+596
+00:19:40,740 --> 00:19:43,540
+E aí, o que eles estão fazendo nessa cena?
+
+597
+00:19:43,540 --> 00:19:47,740
+Sim, veja, o que ele gerou ainda está ok, certo?
+
+598
+00:19:47,740 --> 00:19:49,019
+A qualidade é inacreditável.
+
+599
+00:19:49,019 --> 00:19:50,779
+Essa qualidade, na minha opinião, é excepcional.
+
+600
+00:19:51,779 --> 00:19:52,859
+E o mais importante é que...
+
+601
+00:19:52,859 --> 00:19:53,979
+Mais uma forma de jogar é o seguinte:
+
+602
+00:19:53,979 --> 00:19:56,010
+Esta forma é ainda mais rápida, que é o seguinte:
+
+603
+00:19:56,010 --> 00:19:59,530
+Por exemplo, se você já tiver as imagens dos personagens e do cenário,
+
+604
+00:19:59,530 --> 00:20:03,180
+Aí, você cria uma nova geração de quadros abaixo.
+
+605
+00:20:03,180 --> 00:20:05,100
+E faça como eu.
+
+606
+00:20:05,100 --> 00:20:08,400
+Nesses quadros, você coloca o cenário, uh...
+
+607
+00:20:08,400 --> 00:20:12,050
+Olha, o protagonista e a protagonista, os três, os conectam.
+
+608
+00:20:12,050 --> 00:20:13,710
+Conecte os três.
+
+609
+00:20:13,710 --> 00:20:15,350
+Depois de conectar, fica ainda mais fácil, né?
+
+610
+00:20:15,350 --> 00:20:16,630
+Depois de conectar os três,
+
+611
+00:20:16,630 --> 00:20:18,450
+você pode configurar isso em uma grade de nove quadrados,
+
+612
+00:20:18,450 --> 00:20:20,690
+ou também pode usar a grade de quatro quadrados padrão.
+
+613
+00:20:20,690 --> 00:20:22,010
+Mas, geralmente, para 2K,
+
+614
+00:20:22,010 --> 00:20:23,750
+ainda recomendo quatro painéis, ok?
+
+615
+00:20:23,750 --> 00:20:30,479
+Por exemplo, você pode dizer que os dois estão andando e se beijando.
+
+616
+00:20:32,540 --> 00:20:33,260
+abraçando.
+
+617
+00:20:33,260 --> 00:20:35,720
+Então, o que quer que seja, basta escrever lá e pronto.
+
+618
+00:20:35,720 --> 00:20:36,760
+Depois, clica em gerar.
+
+619
+00:20:36,760 --> 00:20:38,160
+Você pode ter, tipo, o que eu tenho aqui.
+
+620
+00:20:38,160 --> 00:20:40,619
+Quatro imagens em grade de uma vez.
+
+621
+00:20:40,619 --> 00:20:43,660
+E todas elas são geradas estritamente de acordo com os seus prompts, certo?
+
+622
+00:20:43,660 --> 00:20:44,260
+Se você olhar bem, na verdade,
+
+623
+00:20:44,260 --> 00:20:47,180
+a consistência dos personagens é excelente.
+
+624
+00:20:47,180 --> 00:20:50,660
+Além disso, mesmo que as cenas não pareçam estranhas.
+
+625
+00:20:50,660 --> 00:20:54,090
+É como se estivesse realmente num ambiente gerado, sabe?
+
+626
+00:20:54,090 --> 00:20:57,090
+Não é como antes, que se você não tivesse alguma imagem...
+
+627
+00:20:57,090 --> 00:20:59,000
+...o IA tinha que inventar tudo do zero.
+
+628
+00:20:59,000 --> 00:21:00,400
+Mas, quando isso é gerado,
+
+629
+00:21:00,400 --> 00:21:03,780
+é gerado de acordo com este nosso mapa de cena e design de personagem.
+
+630
+00:21:03,780 --> 00:21:06,040
+E assim, você pode usar isso para fazer vídeos.
+
+631
+00:21:06,040 --> 00:21:08,600
+Então, se você tem esse storyboard muito preciso,
+
+632
+00:21:08,600 --> 00:21:09,440
+quando for fazer o vídeo,
+
+633
+00:21:09,440 --> 00:21:11,280
+não é realmente muito mais simples?
+
+634
+00:21:11,280 --> 00:21:14,280
+Por exemplo, se o vídeo seguir estritamente as imagens 1, 2, 3 e 4,
+
+635
+00:21:14,280 --> 00:21:15,000
+e depois continuar,
+
+636
+00:21:15,000 --> 00:21:16,180
+você pode inserir seu próximo diálogo.
+
+637
+00:21:16,180 --> 00:21:17,230
+as suas falas.
+
+638
+00:21:17,230 --> 00:21:20,170
+OK, então é realmente como filmar uma série de TV ou um filme.
+
+639
+00:21:20,170 --> 00:21:21,230
+Você é realmente apenas uma pessoa.
+
+640
+00:21:21,230 --> 00:21:22,090
+É tipo uma equipe de filmagem.
+
+641
+00:21:22,090 --> 00:21:23,369
+E pelo que eu sei agora,
+
+642
+00:21:23,369 --> 00:21:25,170
+Este mercado está realmente em alta.
+
+643
+00:21:25,170 --> 00:21:27,210
+Em apenas um minuto, os ganhos podem chegar a quatro dígitos ou mais.
+
+644
+00:21:27,210 --> 00:21:29,510
+E há muitos casos assim, sim.
+
+645
+00:21:29,510 --> 00:21:32,470
+É por isso que decidi desenvolver e disponibilizar esta ferramenta para todos.
+
+646
+00:21:32,470 --> 00:21:34,480
+No início, eu até pensei em cobrar alguma coisa,
+
+647
+00:21:34,480 --> 00:21:35,400
+algumas taxas ou algo assim.
+
+648
+00:21:35,400 --> 00:21:36,960
+Mas, para ser sincero, pensei:
+
+649
+00:21:36,960 --> 00:21:37,740
+não vale a pena
+
+650
+00:21:37,740 --> 00:21:39,180
+aqueles poucos reais, de verdade
+
+651
+00:21:39,180 --> 00:21:41,240
+eu nas minhas mãos, eu também não vejo sentido
+
+652
+00:21:41,240 --> 00:21:42,500
+e também não corresponder às suas expectativas e à sua espera por mim.
+
+653
+00:21:42,500 --> 00:21:43,300
+E o segundo ponto, então,
+
+654
+00:21:43,300 --> 00:21:45,420
+é que vejo muita gente a fazer estas séries de banda desenhada agora,
+
+655
+00:21:45,420 --> 00:21:47,300
+são pessoas de meia-idade, sabe?
+
+656
+00:21:47,300 --> 00:21:48,340
+Ou muitos desses.
+
+657
+00:21:48,340 --> 00:21:50,060
+Porque eles são pessoas que talvez não tenham emprego.
+
+658
+00:21:50,060 --> 00:21:51,920
+Ou então, que vêm de outras indústrias para esta aqui.
+
+659
+00:21:51,920 --> 00:21:55,190
+Eles já foram muito explorados por outras plataformas.
+
+660
+00:21:55,190 --> 00:21:56,270
+Então, para ser direto,
+
+661
+00:21:56,270 --> 00:21:58,750
+Eu não quero mais ter que ficar aqui embalando vocês.
+
+662
+00:21:58,750 --> 00:22:00,670
+Se vocês conseguem configurar a API sozinhos,
+
+663
+00:22:00,670 --> 00:22:03,350
+então peguem e configurem. É só configurar e pronto.
+
+664
+00:22:03,350 --> 00:22:05,670
+É só usar meu token para isso.
+
+665
+00:22:05,670 --> 00:22:08,230
+Isso é só para aqueles iniciantes que não entendem nada.
+
+666
+00:22:08,230 --> 00:22:10,590
+Porque este aqui, não é que ele não...
+
+667
+00:22:10,590 --> 00:22:12,800
+Por exemplo, no próximo jogo, ele já pode
+
+668
+00:22:12,800 --> 00:22:13,640
+Ele já baixou.
+
+669
+00:22:13,640 --> 00:22:14,520
+Pode jogar imediatamente.
+
+670
+00:22:14,520 --> 00:22:15,720
+Mas por causa desta API,
+
+671
+00:22:15,720 --> 00:22:17,820
+eu não quero que ele fique preso por mais duas horas.
+
+672
+00:22:17,820 --> 00:22:18,869
+Ele vai perder o interesse.
+
+673
+00:22:18,869 --> 00:22:21,190
+Eu realmente quero que todos experimentem
+
+674
+00:22:21,190 --> 00:22:23,410
+este pequeno software que eu criei,
+
+675
+00:22:23,410 --> 00:22:25,990
+e que me deem feedback sobre quaisquer problemas.
+
+676
+00:22:25,990 --> 00:22:28,260
+para que todos possamos nos comunicar melhor
+
+677
+00:22:28,260 --> 00:22:29,280
+e eu possa ajudar a todos
+
+678
+00:22:29,280 --> 00:22:31,010
+e ajudar todos a economizar dinheiro.
+
+679
+00:22:31,010 --> 00:22:33,609
+Pode nos ajudar a economizar pontos, certo?
+
+680
+00:22:33,609 --> 00:22:35,530
+Porque agora, se você for gerar um vídeo,
+
+681
+00:22:35,530 --> 00:22:37,150
+Cada segundo custará mais de um real.
+
+682
+00:22:37,150 --> 00:22:38,250
+Se você criar um vídeo de 15 segundos,
+
+683
+00:22:38,250 --> 00:22:39,638
+vai gastar quase 20 yuans.
+
+684
+00:22:39,638 --> 00:22:42,439
+E se esses storyboards pudessem te economizar 20 yuans?
+
+685
+00:22:42,439 --> 00:22:44,119
+Se eu puder economizar 20 yuans para um dos meus fãs,
+
+686
+00:22:44,119 --> 00:22:45,239
+e ajudar 100 deles,
+
+687
+00:22:45,239 --> 00:22:46,510
+ou até 1.000...
+
+688
+00:22:46,510 --> 00:22:49,390
+Então, esta é a intenção original do software que eu projetei.
+
+689
+00:22:49,390 --> 00:22:50,070
+Para ser honesto,
+
+690
+00:22:50,070 --> 00:22:52,609
+Eu sou realmente um novato em software.
+
+691
+00:22:52,609 --> 00:22:54,330
+Este software é de código aberto,
+
+692
+00:22:54,330 --> 00:22:55,690
+mas é apenas uma estrutura,
+
+693
+00:22:55,690 --> 00:22:57,010
+e possui algumas funcionalidades simples.
+
+694
+00:22:57,010 --> 00:22:58,369
+Por exemplo, a geração de storyboards.
+
+695
+00:22:58,369 --> 00:23:00,450
+E essas coisas, como VR e 360
+
+696
+00:23:00,450 --> 00:23:02,369
+Fui eu mesmo que as projetei, entende?
+
+697
+00:23:02,369 --> 00:23:03,650
+Por exemplo, a geração de storyboard, e essas coisas, como VR e 360 graus, tudo foi desenhado por mim, sabe?
+
+698
+00:23:03,650 --> 00:23:05,130
+Incluindo essas pequenas funcionalidades. Você usou diretamente os links dessas imagens, certo?
+
+699
+00:23:05,130 --> 00:23:05,810
+Este UI e tudo mais.
+
+700
+00:23:05,810 --> 00:23:07,090
+Incluindo essas pequenas funcionalidades,
+
+701
+00:23:07,090 --> 00:23:09,030
+você usa diretamente essas conexões de imagem,
+
+702
+00:23:09,030 --> 00:23:10,130
+certo?
+
+703
+00:23:10,130 --> 00:23:12,450
+Eu acho que eu realmente me dediquei muito a isso.
+
+704
+00:23:12,450 --> 00:23:15,600
+E eu comecei do zero,
+
+705
+00:23:15,600 --> 00:23:17,880
+em aproximadamente nove dias.
+
+706
+00:23:17,880 --> 00:23:19,960
+Eu estava usando cinco IAs ao mesmo tempo,
+
+707
+00:23:19,960 --> 00:23:22,270
+que estavam me ajudando a criar isso.
+
+708
+00:23:22,270 --> 00:23:24,510
+Eu realmente me dediquei de corpo e alma.
+
+709
+00:23:24,510 --> 00:23:25,270
+Trabalhando dia e noite
+
+710
+00:23:25,270 --> 00:23:26,950
+Não saio de casa há dias
+
+711
+00:23:26,950 --> 00:23:27,990
+Não vejo o sol
+
+712
+00:23:27,990 --> 00:23:30,310
+Mas quando finalmente o fiz,
+
+713
+00:23:30,310 --> 00:23:30,630
+bem,
+
+714
+00:23:30,630 --> 00:23:32,210
+na verdade, acho que é muito divertido.
+
+715
+00:23:32,210 --> 00:23:35,290
+Então, eu não queria decepcionar a todos que estavam esperando por mim.
+
+716
+00:23:35,290 --> 00:23:37,479
+Eu o compartilhei com vocês o mais rápido possível.
+
+717
+00:23:37,479 --> 00:23:38,119
+Talvez ele tenha
+
+718
+00:23:38,119 --> 00:23:40,599
+Pode ser que você encontre pequenos bugs ao usá-lo,
+
+719
+00:23:40,599 --> 00:23:42,359
+mas não são importantes.
+
+720
+00:23:42,359 --> 00:23:44,809
+Porque a versão que você vê agora,
+
+721
+00:23:44,809 --> 00:23:48,820
+Eu mesmo testei isso mais de 200 vezes, uhm...
+
+722
+00:23:48,820 --> 00:23:50,960
+Talvez até mais que isso.
+
+723
+00:23:50,960 --> 00:23:52,040
+Duzentas ou trezentas vezes, com certeza.
+
+724
+00:23:52,040 --> 00:23:53,619
+É tipo, eu crio uma funcionalidade.
+
+725
+00:23:53,619 --> 00:23:54,970
+Por exemplo, se eu adicionar algo aqui.
+
+726
+00:23:54,970 --> 00:23:56,530
+Por exemplo, se eu adicionar algo aqui.
+
+727
+00:23:56,530 --> 00:23:57,369
+Ele terá que configurá-lo.
+
+728
+00:23:57,369 --> 00:23:59,119
+Eu mesmo teria que testar umas quatro ou cinco vezes.
+
+729
+00:23:59,119 --> 00:24:00,240
+É testar repetidamente.
+
+730
+00:24:00,240 --> 00:24:01,060
+testar várias e várias vezes.
+
+731
+00:24:01,060 --> 00:24:01,840
+Vou adicionar um recurso
+
+732
+00:24:01,840 --> 00:24:03,340
+e terei que testar muitas e muitas vezes.
+
+733
+00:24:03,340 --> 00:24:05,520
+para que tudo funcione de verdade.
+
+734
+00:24:05,520 --> 00:24:06,020
+a lógica
+
+735
+00:24:06,020 --> 00:24:06,540
+esteja toda certa.
+
+736
+00:24:06,540 --> 00:24:07,359
+que todas as funções estão funcionando perfeitamente.
+
+737
+00:24:07,359 --> 00:24:08,980
+Então, a versão que você vê agora é algo que
+
+738
+00:24:08,980 --> 00:24:12,380
+eu refinei e ajustei muitas e muitas vezes, de verdade.
+
+739
+00:24:12,380 --> 00:24:14,660
+E no final do vídeo, queria conversar um pouco com vocês sobre um assunto diferente.
+
+740
+00:24:14,660 --> 00:24:15,100
+Um assunto diferente.
+
+741
+00:24:15,100 --> 00:24:18,830
+É que talvez agora quem trabalha com cinema, ou com texto...
+
+742
+00:24:18,830 --> 00:24:19,430
+ou de codificação,
+
+743
+00:24:19,430 --> 00:24:21,390
+ou muitos setores, como a pintura.
+
+744
+00:24:21,390 --> 00:24:23,310
+Eu entendo que todos vocês estão realmente muito ansiosos.
+
+745
+00:24:23,310 --> 00:24:25,530
+Inclusive, eu estava bem ansioso há um tempo atrás.
+
+746
+00:24:25,530 --> 00:24:28,230
+Mas, uh, não se preocupe.
+
+747
+00:24:28,230 --> 00:24:28,630
+Vai ficar tudo bem.
+
+748
+00:24:28,630 --> 00:24:29,030
+Fique tranquilo.
+
+749
+00:24:29,030 --> 00:24:30,170
+Venha ver meus vídeos.
+
+750
+00:24:30,170 --> 00:24:33,609
+Porque gosto de pesquisar e desenvolver essas coisas.
+
+751
+00:24:33,609 --> 00:24:35,770
+Pois ele domina desde a fotografia 3D,
+
+752
+00:24:35,770 --> 00:24:39,950
+algumas composições, fusões com cenários reais, até alguns efeitos especiais.
+
+753
+00:24:39,950 --> 00:24:41,430
+E agora, até esta interface de usuário de recuperação.
+
+754
+00:24:41,430 --> 00:24:43,990
+até a criação deste software, sabe?
+
+755
+00:24:43,990 --> 00:24:46,109
+Basicamente, eu aprendi tudo.
+
+756
+00:24:46,109 --> 00:24:48,190
+Então, pessoal, não precisam se preocupar.
+
+757
+00:24:48,190 --> 00:24:48,750
+não tem problema.
+
+758
+00:24:48,750 --> 00:24:51,470
+Se tiverem algo para trocar ideias, é só me perguntar.
+
+759
+00:24:51,470 --> 00:24:52,650
+Venham aqui, uh...
+
+760
+00:24:52,650 --> 00:24:53,570
+Podem me perguntar na seção de comentários.
+
+761
+00:24:53,570 --> 00:24:55,690
+Porque o vídeo anterior teve muitos comentários,
+
+762
+00:24:55,690 --> 00:24:57,570
+e eu realmente não consigo responder a todos.
+
+763
+00:24:57,570 --> 00:24:58,890
+Eu tento responder a todos os comentários que vejo.
+
+764
+00:24:58,890 --> 00:24:59,810
+Mas como os comentários são muitos,
+
+765
+00:24:59,810 --> 00:25:02,109
+realmente não consigo responder a todos.
+
+766
+00:25:02,109 --> 00:25:02,810
+Por favor, compreendam.
+
+767
+00:25:02,810 --> 00:25:05,230
+Porque não estou apenas a trabalhar neste software.
+
+768
+00:25:05,230 --> 00:25:07,550
+É que, na verdade, tenho muitas outras coisas para fazer.
+
+769
+00:25:07,550 --> 00:25:09,350
+Há muitos fabricantes,
+
+770
+00:25:09,350 --> 00:25:11,800
+ou, ah, alguns alunos,
+
+771
+00:25:11,800 --> 00:25:12,320
+eles voltaram.
+
+772
+00:25:12,320 --> 00:25:13,340
+e eu vou
+
+773
+00:25:13,340 --> 00:25:16,119
+Vou dedicar meu tempo para trabalhar com eles.
+
+774
+00:25:16,119 --> 00:25:18,920
+E não estou fazendo só essas coisas, né?
+
+775
+00:25:18,920 --> 00:25:21,480
+Porque, na verdade, quero fazer muito mais no futuro.
+
+776
+00:25:21,480 --> 00:25:23,740
+Este pequeno software é apenas um começo.
+
+777
+00:25:23,740 --> 00:25:24,740
+Se vocês tiverem interesse,
+
+778
+00:25:24,740 --> 00:25:26,119
+Vocês podem assistir aos meus vídeos,
+
+779
+00:25:26,119 --> 00:25:27,060
+acompanhar minhas ideias,
+
+780
+00:25:27,060 --> 00:25:29,180
+e juntos podemos transformar em realidade o que acreditamos.
+
+781
+00:25:29,180 --> 00:25:30,160
+Levar isso ao extremo.
+
+782
+00:25:30,160 --> 00:25:31,840
+Fazer o melhor, certo?
+
+783
+00:25:31,840 --> 00:25:34,140
+Se, durante esse processo, puder te trazer algum retorno
+
+784
+00:25:34,140 --> 00:25:36,640
+se puder trazer algum benefício para você,
+
+785
+00:25:36,640 --> 00:25:39,000
+então acho que com certeza é a melhor coisa, né?
+
+786
+00:25:39,000 --> 00:25:42,480
+É por isso que escolhi disponibilizar este software gratuitamente.
+
+787
+00:25:42,480 --> 00:25:43,980
+E as portas estão todas abertas.
+
+788
+00:25:43,980 --> 00:25:44,920
+Bem, já que vamos fazer isso,
+
+789
+00:25:44,920 --> 00:25:47,220
+devemos fazê-lo com a maior sinceridade, certo?
+
+790
+00:25:47,220 --> 00:25:49,080
+Porque a sinceridade é a melhor arma.
+
+791
+00:25:49,080 --> 00:25:50,920
+Eu não sou como eles, que cobram
+
+792
+00:25:50,920 --> 00:25:53,240
+alguns reais por cada material.
+
+793
+00:25:53,240 --> 00:25:53,840
+Qual é o sentido, não é?
+
+794
+00:25:53,840 --> 00:25:54,300
+Não é?
+
+795
+00:25:54,300 --> 00:25:55,760
+É melhor ter uma visão mais ampla.
+
+796
+00:25:55,760 --> 00:25:59,230
+E a última coisa que eu queria dizer é para não se preocuparem.
+
+797
+00:25:59,230 --> 00:26:00,850
+Assistam mais aos meus vídeos, ok?
+
+798
+00:26:00,850 --> 00:26:02,570
+Aí eu atualizo as coisas sozinho.
+
+799
+00:26:02,570 --> 00:26:06,090
+Aí, depois, eu vou simplesmente replicar a tecnologia para vocês.
+
+800
+00:26:06,090 --> 00:26:08,170
+Vou copiá-la e colá-la para vocês, e pronto, tá feito, certo?
+
+801
+00:26:08,170 --> 00:26:09,270
+Amigos, não fiquem ansiosos.
+
+802
+00:26:09,270 --> 00:26:10,109
+Depois, usem este pequeno software.
+
+803
+00:26:10,109 --> 00:26:10,869
+Divirtam-se usando-o.
+
+804
+00:26:10,869 --> 00:26:12,790
+E se conseguirem criar trabalhos incríveis,
+
+805
+00:26:12,790 --> 00:26:14,300
+Não se esqueça de me marcar para eu ver.
+
+806
+00:26:14,300 --> 00:26:18,390
+E, no final do vídeo, não se esqueça de me seguir.
+
+807
+00:26:18,390 --> 00:26:23,750
+E na próxima vez faremos coisas mais divertidas, ok?
+
+808
+00:26:23,750 --> 00:26:24,690
+Eu sou Greydou.
+
+809
+00:26:24,690 --> 00:26:26,190
+Nos vemos na próxima vez!
+
