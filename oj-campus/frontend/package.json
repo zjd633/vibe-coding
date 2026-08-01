@@ -1,0 +1,39 @@
+{
+  "name": "oj-campus-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "typecheck": "vue-tsc -b",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@codemirror/lang-cpp": "^6.0.3",
+    "@codemirror/state": "^6.5.2",
+    "@codemirror/view": "^6.38.1",
+    "@lucide/vue": "^1.26.0",
+    "axios": "^1.11.0",
+    "codemirror": "^6.0.2",
+    "dompurify": "^3.2.6",
+    "markdown-it": "^14.1.0",
+    "pinia": "^3.0.3",
+    "vue": "^3.5.18",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.0",
+    "@testing-library/vue": "^8.1.0",
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^26.1.1",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "@vue/test-utils": "^2.4.6",
+    "jsdom": "^26.1.0",
+    "type-fest": "^2.19.0",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.6",
+    "vitest": "^3.2.4",
+    "vue-tsc": "^3.0.4"
+  }
+}

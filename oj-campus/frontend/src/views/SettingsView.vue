@@ -1,0 +1,12 @@
+<script setup lang="ts">
+import { reactive, ref } from 'vue'
+import { useRouter } from 'vue-router'
+import { KeyRound, Save } from '@lucide/vue'
+import { api, readableError } from '../api/client'
+import { useAuthStore } from '../stores/auth'
+import type { User } from '../types'
+const auth=useAuthStore();const router=useRouter();const profile=reactive({display_name:auth.user?.display_name??'',email:auth.user?.email??''});const password=reactive({current_password:'',new_password:''});const notice=ref('');const error=ref('');const saving=ref(false)
+async function saveProfile(){saving.value=true;error.value='';notice.value='';try{const user=(await api.patch<User>('/auth/profile',profile)).data;auth.updateUser(user);notice.value='个人资料已保存'}catch(cause){error.value=readableError(cause,'资料保存失败')}finally{saving.value=false}}
+async function savePassword(){saving.value=true;error.value='';notice.value='';try{await api.patch('/auth/password',password);auth.clearSession();password.current_password='';password.new_password='';void api.post('/auth/logout').catch(()=>undefined);await router.replace('/login')}catch(cause){error.value=readableError(cause,'密码更新失败')}finally{saving.value=false}}
+</script>
+<template><div><div class="page-heading"><div><p class="eyebrow">账号中心</p><h1 tabindex="-1">个人设置</h1><p>维护公开显示信息和登录密码。</p></div></div><div class="settings-grid"><form class="card form-stack" @submit.prevent="saveProfile"><h2>个人资料</h2><label for="display-name">显示名称</label><input id="display-name" v-model.trim="profile.display_name" maxlength="32" required/><label for="profile-email">邮箱</label><input id="profile-email" v-model.trim="profile.email" type="email" autocomplete="email" required/><button class="button button-primary" type="submit" :disabled="saving"><Save :size="18"/>保存资料</button></form><form class="card form-stack" @submit.prevent="savePassword"><h2>修改密码</h2><label for="old-password">当前密码</label><input id="old-password" v-model="password.current_password" type="password" autocomplete="current-password" required/><label for="new-password">新密码</label><input id="new-password" v-model="password.new_password" type="password" autocomplete="new-password" minlength="8" required/><button class="button button-secondary" type="submit" :disabled="saving"><KeyRound :size="18"/>更新密码</button></form></div><p v-if="notice" class="feedback success" aria-live="polite">{{notice}}</p><p v-if="error" class="feedback error" role="alert">{{error}}</p></div></template>

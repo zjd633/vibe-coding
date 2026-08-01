@@ -1,0 +1,12 @@
+<script setup lang="ts">
+import { onMounted, ref } from 'vue'
+import { Pencil, Plus, Trash2 } from '@lucide/vue'
+import { api, readableError } from '../../api/client'
+import AsyncState from '../../components/AsyncState.vue'
+import DifficultyBadge from '../../components/DifficultyBadge.vue'
+import type { Problem } from '../../types'
+const items=ref<Problem[]>([]);const state=ref<'loading'|'error'|'ready'>('loading');const error=ref('');const actionError=ref('');const notice=ref('')
+async function load(){state.value='loading';error.value='';try{items.value=(await api.get<Problem[]>('/admin/problems')).data;state.value='ready'}catch(cause){error.value=readableError(cause,'题目管理列表加载失败');state.value='error'}}
+async function remove(problem:Problem){if(!window.confirm(`确定删除题目“${problem.title}”吗？此操作无法撤销。`))return;actionError.value='';notice.value='';try{await api.delete(`/admin/problems/${problem.id}`);notice.value='题目已删除';await load()}catch(cause){actionError.value=readableError(cause,'题目删除失败')}}onMounted(load)
+</script>
+<template><div><div class="page-heading"><div><p class="eyebrow">内容管理</p><h1 tabindex="-1">题目管理</h1><p>维护公开状态、难度、标签和有序测试点。</p></div><RouterLink class="button button-primary" to="/admin/problems/new"><Plus :size="19"/>新建题目</RouterLink></div><p v-if="notice" class="feedback success" aria-live="polite">{{notice}}</p><AsyncState v-if="state!=='ready'" :status="state" :message="state==='loading'?'正在加载题目…':error" :on-retry="load"/><section v-else class="card table-wrap"><p v-if="actionError" class="feedback error" role="alert">{{actionError}}</p><table><thead><tr><th scope="col">编号</th><th scope="col">标题</th><th scope="col">难度</th><th scope="col">发布</th><th scope="col">测试点</th><th scope="col">操作</th></tr></thead><tbody><tr v-for="problem in items" :key="problem.id"><td>#{{problem.id}}</td><td>{{problem.title}}</td><td><DifficultyBadge :difficulty="problem.difficulty"/></td><td>{{problem.published?'已发布':'草稿'}}</td><td>{{problem.test_cases?.length??0}}</td><td><div class="table-actions"><RouterLink class="icon-button" :to="`/admin/problems/${problem.id}/edit`" :aria-label="`编辑 ${problem.title}`"><Pencil :size="18"/></RouterLink><button class="icon-button danger" type="button" :aria-label="`删除 ${problem.title}`" @click="remove(problem)"><Trash2 :size="18"/></button></div></td></tr></tbody></table><AsyncState v-if="!items.length" status="empty" message="还没有题目，创建第一道题吧。"/></section></div></template>
